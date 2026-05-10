@@ -2,7 +2,8 @@
 Name : Sarmad Habib
 Cms : 023-25-0100
 Section : BSCS II-D
-
+# LINK TO VIDEO
+https://youtu.be/c4cKiYYHCh8
 The README covers everything the guidelines ask for. Here's also a summary of the small code points your teacher will look for and how your project already satisfies them:
 
 Purpose : shop staff manage customers, measurements, and orders instead of paper records.
